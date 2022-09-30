@@ -1,0 +1,76 @@
+.navbar-nav {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    background-color: rgb(34, 103, 156);
+    padding: 15px;
+    font-size: 28px;
+    color: white;
+    margin: 0%;
+    font-style:oblique;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .table{
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  }
+  .table-child{
+    flex-flow: row wrap;
+  }
+
+  .add{
+    padding-right: 25px; 
+    top: 20px;
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-weight: 550;
+  
+  }
+  tr{
+    position: relative;
+    left: 0px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 0.4fr;
+    background-color: white;
+    text-align: left;
+    border-radius: 10px;
+    height: 28px;
+    border-bottom: 1px solid grey;
+    font-size: 20px;
+  }
+ input{
+  height: 40px;
+  width: 550px;
+  background: transparent;
+  border: none;
+} 
+
+.fields {
+   
+  left: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 100px;
+  gap: 70px;
+  row-gap: 100px;
+}
+
+fieldset {
+  padding: 0;
+  border-color: 2px solid rgb(78, 75, 75);
+  
+} 
+legend {
+  border-color: rgb(59, 58, 58);
+}
+
