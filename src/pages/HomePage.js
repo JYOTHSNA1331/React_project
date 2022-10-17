@@ -19,7 +19,7 @@ const HomePage = () => {
         <div className="main-image" >
           <Link className="link" to="/bollywood">
             <img
-              src="https://images.unsplash.com/photo-1508921340878-ba53e1f016ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Snake_River_%285mb%29.jpg/1200px-Snake_River_%285mb%29.jpg"
               alt="sub-img"></img>
            
           </Link>
