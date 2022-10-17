@@ -27,10 +27,10 @@ const Details = (props) => {
     },
     {
       "id": 61,
-      "title": "Deepika Padukone EXUDES desi vibes with a modern touch in a white ruffle saree during the closing ceremony",
-      "Image": "https://filmfare.wwmindia.com/content/2022/may/shahrukhkhan41653712635.jpg",
+      "title": "When little Sara Ali Khan attended Kaun Banega Crorepati and greeted Amitabh Bachchan with 'adaab'.",
+      "Image": "https://images.indianexpress.com/2022/10/sreejita-de-bigg-boss-eviction.jpg?resize=600,334",
       "category": "footer1",
-      "description": "Gehraiyaan actress Deepika Padukone is among the few stars who are representing India at Cannes 2022. She is churning out some fabulous fashion stints leaving all her fans mesmerised. For the closing ceremony of the international film festival, the actress opted to go all desi. But not without a modern touch.After wearing some classic modern pieces, Deepika Padukone chose a Abu Jani-Sandeep Khosla creation to end her stint at Cannes 2022.The actress looked absolutely divine as walked the red carpet wearing this beautiful saree. The neckpiece made of pearls added much glam to the sweet saree.  The actress attended the press conference with other jury members Rebecca Hall and Jeff Nichols. Sticking to her roots, she greeted everyone with a namaste.Well, if this picture does not hypnotise you then we don't know what will. Subtle makeup, pearl earrings and more - the actress looked drop-dead gorgeous as ever."
+      "description": "Sara Ali Khan made her Bollywood debut with Abhishek Kapoor's Kedarnath but she has been appearing on screen since a young age. Talking about her old appearance, a video of her from the sets of Kaun Banega Crorepati Season 5 in 2005 has surfaced."
     },
     
     {
@@ -85,7 +85,7 @@ const Details = (props) => {
   {
     "id": 9,
     "title": "Bollywood Deepika Padukone looks jaw droppingly stunning in latest photos",
-    "Image": "https://www.pinkvilla.com/imageresize/abhishek%20bachchan%20aishwarya%20aaradhya%20%282%29.JPG?width=752&format=webp&t=pvorg",
+    "Image": "https://www.pinkvilla.com/imageresize/deepika_69.jpg?width=752&format=webp&t=pvorg",
     "category": "Bollywood",
     "description": "Deepika Padukone never fails to impress us with her style. The stunning actress is an epitome of grace and charm. Deepika is the highest paid actress in the country today and has made it to the Top 5 of Forbes List of Richest Indian Celebs. The actor was featured in TIME magazine’s 100 Most Influential People List and is one of the few Indian actors to have attended coveted events abroad. "
   },
@@ -126,10 +126,10 @@ const Details = (props) => {
   },
   {
     "id": 62,
-    "title": "Amber Heard says she has received threats 'every single day' during trial: 'People want to put my baby in a microwave' ",
-    "Image": "https://images.hindustantimes.com/img/2022/05/27/550x309/amber_heard_1652846124301_1653656835956.JPG",
+    "title": "Salman Khan Confirms Sidharth Malhotra & Kiara Advani's Wedding On Bigg Boss 16",
+    "Image": "https://images.indianexpress.com/2022/10/abhishek-bachchan-breathe-3.jpg?resize=600,334",
     "category": "footer2",
-    "description": "In a video from the trial shared by Law & Crime Network on their YouTube channel, Amber told the jury, I am harassed, humiliated, threatened, every single day. Even just walking into this courtroom. Sitting here in front of the world, having the worst parts of my life, things that I have lived through, used to humiliate me. People want to kill me and they tell me so every day. People want to put my baby in the microwave, and they tell me that. She also said, I live my life with these sets of rules I've to follow, my friends have to follow for me not to have a panic attack or a triggering event or I relive the trauma, even from training to do. In my movie, for instance, for training for Aquaman, a combat scene and a trigger happen. I have a meltdown and have to deal with that, the crew I work with have to deal with that, because of the damage I walk around with every single day. I am not sitting in this courtroom snickering. I’m not sitting in this courtroom laughing, smiling, or making snide jokes. I’m not. This is horrible. A jury is scheduled to hear the closing arguments on Friday in Johnny's lawsuit against Amber. Each side will have two hours to summarise their case in a trial that has stretched on for six weeks. Johnny Depp is suing Amber for $50 million in Virginia's Fairfax County Circuit Court over a December 2018 op-ed she wrote in The Washington Post describing herself as “a public figure representing domestic abuse”. His lawyers say he was defamed by the article even though it never mentioned his name."
+    "description": "During the Weekend Ka Vaar, Sidharth along with his co-star Rakul Preet Singh graced the Bigg Boss 16 sets in order to promote their upcoming film, Thank God. The actor has been actively promoting the Indra Kumar directorial and was even seen at Jhalak Dikhhla Jaa before that."
   },
   {
     "id": 14,
@@ -211,10 +211,10 @@ const Details = (props) => {
   },
   {
     "id": 63,
-    "title": "A face search engine anyone can use is alarmingly accurate ",
-    "Image": "https://images.indianexpress.com/2022/05/Facial-search-engine-featured.jpg",
+    "title": "How to prevent your WhatsApp account from getting banned on the platform",
+    "Image": "https://images.indianexpress.com/2022/10/WhatsApp-account-ban-20221016.jpg",
     "category": "footer3",
-    "description": "For $29.99 a month, a website called PimEyes offers a potentially dangerous superpower from the world of science fiction: the ability to search for a face, finding obscure photos that would otherwise have been as safe as the proverbial needle in the vast digital haystack of the internet.A search takes mere seconds. You upload a photo of a face, check a box agreeing to the terms of service and then get a grid of photos of faces deemed similar, with links to where they appear on the internet. The New York Times used PimEyes on the faces of a dozen Times journalists, with their consent, to test its powers.PimEyes found photos of every person, some that the journalists had never seen before, even when they were wearing sunglasses or a mask, or their face was turned away from the camera, in the image used to conduct the search. PimEyes found one reporter dancing at an art museum event a decade ago, and crying after being proposed to, a photo that she didn’t particularly like but that the photographer had decided to use to advertise his business on Yelp. A tech reporter’s younger self was spotted in an awkward crush of fans at the Coachella music festival in 2011. A foreign correspondent appeared in countless wedding photos, evidently the life of every party, and in the blurry background of a photo taken of someone else at a Greek airport in 2019. A journalist’s past life in a rock band was unearthed, as was another’s preferred summer camp getaway."
+    "description": "WhatsApp Account Ban Prevention, Check Terms of Service: According to WhatsApp’s monthly user safety report, the instant messaging service banned over 2.3 million Indian users in the month of August alone. And if you unknowingly spam your contacts with unverified information, there is a chance that your account might end up getting banned too."
   },
   {
     "id": 22,
