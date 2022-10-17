@@ -28,7 +28,7 @@ const Details = (props) => {
     {
       "id": 61,
       "title": "Deepika Padukone EXUDES desi vibes with a modern touch in a white ruffle saree during the closing ceremony",
-      "Image": "https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Deepika-76.png",
+      "Image": "https://filmfare.wwmindia.com/content/2022/may/shahrukhkhan41653712635.jpg",
       "category": "footer1",
       "description": "Gehraiyaan actress Deepika Padukone is among the few stars who are representing India at Cannes 2022. She is churning out some fabulous fashion stints leaving all her fans mesmerised. For the closing ceremony of the international film festival, the actress opted to go all desi. But not without a modern touch.After wearing some classic modern pieces, Deepika Padukone chose a Abu Jani-Sandeep Khosla creation to end her stint at Cannes 2022.The actress looked absolutely divine as walked the red carpet wearing this beautiful saree. The neckpiece made of pearls added much glam to the sweet saree.  The actress attended the press conference with other jury members Rebecca Hall and Jeff Nichols. Sticking to her roots, she greeted everyone with a namaste.Well, if this picture does not hypnotise you then we don't know what will. Subtle makeup, pearl earrings and more - the actress looked drop-dead gorgeous as ever."
     },
