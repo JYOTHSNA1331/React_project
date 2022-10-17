@@ -5,26 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-h4{
-  text-align: center;
-}
-
-span{
-  writing-mode: vertical-rl;
-  font-size: medium;
-  font-weight: lighter;
-}
-a{
-  text-decoration: none;
-}
-ul{
-  display: flex;
-  justify-content: space-between;
 }
